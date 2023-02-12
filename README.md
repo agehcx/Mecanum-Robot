@@ -1,9 +1,6 @@
 # Mecanum-Robot
 
-Ended up with 4th Place 🏅🏅🏅(1 points to 3rd)🥶🥶
-
-4 Motor Mecanum Wheel Robot
-
+Ended up with 4th Place (97 Points) 🏅🏅🏅(1 points to 3rd)🥶🥶
 
 
 # Right Hand Rule for Solving Maze(s)
